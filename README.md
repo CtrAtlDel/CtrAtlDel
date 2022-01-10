@@ -2,7 +2,7 @@
 
 Hello my name is Ivan, and I am studying hard in my 3rd year at NRNU MEPhi.
 
-🔭 I’m currently working on Parallel programming.
+🔭 I’m currently working on OOP now.
 
 <!--
 **CtrAtlDel/CtrAtlDel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
