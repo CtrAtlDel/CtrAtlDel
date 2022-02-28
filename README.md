@@ -7,11 +7,11 @@ Hello my name is Ivan, and I am studying hard in my 3rd year at NRNU MEPhI.
 Fun facts:
 - I like cats.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CtrAtlDel&hide=stars,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CtrAtlDel&hide=stars,prs&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrAtlDel)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CtrAtlDel&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CtrAtlDel)
 <!--
 **CtrAtlDel/CtrAtlDel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
