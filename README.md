@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello my name is Ivan, and I am studying hard in my 3rd year at NRNU MEPhi.
+Hello my name is Ivan, and I am studying hard in my 3rd year at NRNU MEPhI.
 
 🔭 I’m currently working on Java programming now.
 
