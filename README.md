@@ -9,8 +9,6 @@ Fun facts:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CtrAtlDel&hide=stars,prs&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrAtlDel)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **CtrAtlDel/CtrAtlDel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
