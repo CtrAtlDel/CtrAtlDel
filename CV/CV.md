@@ -1,17 +1,18 @@
 #### Квасов Иван Юрьевич
+
 > Контактная информация
 > Номер телефона: +79044050590
 > Электронная почта kvasovivam@gmail.com
 > Telegram: https://t.me/didyoumissmee
 > 
  Навыки:
- C#, Java, C++, C, Python, Git, Docker, Graphana, Prometheus, Protobuf, SQL, Spring, asp.net core
+ Java, Spring, HTTP C++, Python, Git, SQL,Docker, Graphana, Prometheus, Protobuf
 
 Проекты:
- - Колон google photo с использованием Java Spring 
- - Распараллельная система умножения матриц на микросервисной архитектуре ( C#, Docker, Grpc, Parallel interface )
+ - Система загрузки фото (Java, Spring)
+ - Распараллельная система умножения матриц на микросервисной архитектуре ( C#, Docker, Grpc)
  - Консольное приложение для обработки текста из файлов ( C# )
- - Разработка видеогры Snake ( Java )
+ - Разработка видеогры Sanke ( Java )
  - Система контроля успеваемости студентов ( С++ )
  - Разработка фильтра файловой системы для Windows ( С ) 
 
