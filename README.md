@@ -2,7 +2,7 @@
 
 Hello my name is Ivan, and I am studying hard in my 3rd year at NRNU MEPhI.
 
-🔭 I’m currently working on Java and C# programming now.
+🔭 I’m currently working on Java programming now.
 
 Fun facts:
 - I like cats.
